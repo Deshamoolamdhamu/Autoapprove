@@ -8,7 +8,7 @@
   
 <details><summary>📌 Deploy to Heroku </summary>
   
-<a href="https://heroku.com/deploy?template=hhttps://github.com/wagger1/Auto-Approve-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Deshamoolamdhamu/Autoapprove"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
 </details>
 
 <details><summary>📌 Deploy to Railway </summary>
@@ -41,6 +41,7 @@
   - `CHID` - Your Force subscribe channel id Get it from @MissRose_Bot
   - `FSUB` - Force subscribe channel username without `@`
   - `SUDO` - bot owners Id/ ids ( for broadcast and stats cmds). for multiple use space.
+  - `MONGO_URI` - Your mongodb url
   
   
 ### 💫 Credits
